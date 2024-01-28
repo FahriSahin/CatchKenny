@@ -1,0 +1,31 @@
+*{
+    box-sizing:border-box;
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color:darkkhaki ;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+    color:  white;
+}
+.scoreTime{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.St{
+    color: white;
+}
+.gameScene{
+    width: 100%;
+    height: 75vh;
+    background-color: #e3e3e3;
+    position: absolute;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
